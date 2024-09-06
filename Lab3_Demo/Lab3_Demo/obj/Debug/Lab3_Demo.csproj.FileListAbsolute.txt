@@ -1,0 +1,10 @@
+Z:\lab3_2212378\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe.config
+Z:\lab3_2212378\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe
+Z:\lab3_2212378\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.pdb
+Z:\lab3_2212378\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.AssemblyReference.cache
+Z:\lab3_2212378\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.frmSinhVien.resources
+Z:\lab3_2212378\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.Properties.Resources.resources
+Z:\lab3_2212378\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.GenerateResource.cache
+Z:\lab3_2212378\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.CoreCompileInputs.cache
+Z:\lab3_2212378\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.exe
+Z:\lab3_2212378\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.pdb
